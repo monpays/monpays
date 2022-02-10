@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me noteforum1960 @ gmail.com
+- 📫 How to reach me noteforum1960 @ gmail dot com
 
 <!---
 monpays/monpays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
